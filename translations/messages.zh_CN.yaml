@@ -78,7 +78,7 @@ stats: 统计
 fediverse: 联邦宇宙
 awards: 奖牌
 ranking: 排名
-create_new_magazine: 立刊
+create_new_magazine: 创建版面
 add_new_post: 新铺文
 add_new_article: 新帖文
 add_new_photo: 新图片
@@ -422,7 +422,7 @@ instance: 实体
 inactive: 不活跃
 unpin: 取消订选
 registrations_enabled: 已开放注册
-federation_enabled: 已连邦
+federation_enabled: Federation enabled
 pinned: 已钉选
 pin: 钉选
 dashboard: 信息面板
@@ -433,11 +433,11 @@ type_search_term: 输入关键字
 boost: 推
 captcha_enabled: 已启用Captcha
 kbin_promo_title: 创造你自己的实体
-kbin_intro_title: 探索联邦宇宙
+kbin_intro_title: 祖源社区内测版
 banned_instances: 封锁中的实体
 browsing_one_thread: 您现在正在浏览讨论串的其中一文！所有的留言请从原铺文阅览。
 return: 返回
-kbin_intro_desc: 是一个在联邦宇宙的去中心化的内容搜集器和微铺（微博）平台。
+kbin_intro_desc: 内测时间11月5日-11月30日，测试结束后将清空全部内容。
 kbin_promo_desc: '%link_start%复制源码目录%link_end%以一同开发联邦宇宙'
 mod_log_alert: 警告：管理日志可能有不讨喜和令人不安而受管理员移除的内容，请谨慎小心。
 mercure_enabled: Mercure已启动
