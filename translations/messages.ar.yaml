@@ -21,7 +21,7 @@ oldest: الأقدم
 commented: هناك موضوع للمناقشة
 change_view: غير الواجهة او التصميم
 filter_by_type: تصفية حسب النوع
-comments_count: {0}رسالة|{1}رسالة|]1,معلومات[رسالة"
+comments_count: '{0}رسالة|{1}رسالة|]1,معلومات[رسالة'
 favourites: يحب
 favourite: يحب
 more: أكثر
