@@ -218,6 +218,10 @@ form {
   }
 }
 
+.checkbox-hidden {
+  display: none;
+}
+
 .checkbox {
   display: flex;
   flex-direction: row-reverse;
