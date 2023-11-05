@@ -110,3 +110,7 @@ ENTRYPOINT ["./docker-entrypoint"]
 
 # Expose port 2019 for caddy metric
 EXPOSE 2019/tcp
+
+# google-mailer
+WORKDIR $KBIN_HOME
+RUN composer require symfony/google-mailer
