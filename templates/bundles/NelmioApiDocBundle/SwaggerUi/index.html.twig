@@ -27,7 +27,7 @@
                     <div><i class="fa-solid fa-bars"></i></div>
                     <a href="{{ app.user ? path(app.user.homepage) : '/' }}">
                         {% if kbin_header_logo() %}
-                            <img id="logo" src="{{ asset('kbin_logo.svg') }}" alt="{{ kbin_title() }}">
+                            <img id="logo" width="50" height="50" src="https://www.theytree.com/static/images/logo.png" alt="{{ kbin_title() }}">
                         {% else %}
                             <span>{{ kbin_title() }}</span>
                         {% endif %}

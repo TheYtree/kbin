@@ -9,7 +9,7 @@
 <body> 
     <div class="header container">
         <a href="{{absolute_url(path('root'))}}">
-             <img class="logo" src="{{ absolute_url(asset('kbin_logo_white.png')) }}" alt="{{ kbin_title() }}">
+             <img class="logo" width="50" height="50" src="https://www.theytree.com/static/images/logo.png" alt="{{ kbin_title() }}">
          </a>
     </div>
     <div class="body container">
@@ -17,7 +17,6 @@
     </div>
     <div class="footer container">
          <h3>© {{ 'now'|date('Y') }} {{ kbin_domain() }}</h3>
-         <div>Powered by <a href="https://kbin.pub">kbin</a> &#8729; <a href="https://codeberg.org/Kbin/kbin-core/issues" rel="no-referrer">{{ 'report_issue'|trans }}</a></div>
     </div>
 </body>
 </html>
