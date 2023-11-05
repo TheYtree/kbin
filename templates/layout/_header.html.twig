@@ -11,7 +11,7 @@
                 <div data-action="click->kbin#handleNavToggleClick"><i class="nav-toggle fa-solid fa-bars"></i></div>
                 <a href="/">
                     {% if kbin_header_logo() %}
-                        <img id="logo" width="50" height="50" src="https://www.theytree.com/static/images/logo.png" alt="{{ 'homepage'|trans }}" title="{{ 'homepage'|trans}}">
+                        <img id="logo" style="width:50px !important;height:50px !important;" src="https://www.theytree.com/static/images/logo.png" alt="{{ 'homepage'|trans }}" title="{{ 'homepage'|trans}}">
                     {% else %}
                         <span>{{ kbin_title() }}</span>
                     {% endif %}
