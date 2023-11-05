@@ -9,7 +9,7 @@ RUN install-php-extensions amqp pgsql pdo_pgsql gd curl simplexml dom xml redis 
 COPY --from=composer:latest /usr/bin/composer /usr/bin/composer
 
 # Install caddy
-RUN apk update && apk add caddy acl fcgi
+RUN apk update && apk add caddy acl fcgi git
 
 # **Environment variables**
 ARG UID=1000
@@ -53,7 +53,6 @@ FROM base as builder-composer
 COPY composer.* $KBIN_HOME
 COPY symfony.lock $KBIN_HOME
 ENV COMPOSER_ALLOW_SUPERUSER=1
-RUN apt-get install git
 RUN composer install --prefer-dist --no-dev --no-autoloader --no-scripts --no-progress
 
 # Copy repository
