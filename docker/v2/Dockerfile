@@ -54,6 +54,7 @@ COPY composer.* $KBIN_HOME
 COPY symfony.lock $KBIN_HOME
 ENV COMPOSER_ALLOW_SUPERUSER=1
 RUN composer install --prefer-dist --no-dev --no-autoloader --no-scripts --no-progress
+RUN composer require symfony/google-mailer
 
 # Copy repository
 COPY --link ./ $KBIN_HOME
