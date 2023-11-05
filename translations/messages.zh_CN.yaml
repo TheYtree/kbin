@@ -492,9 +492,7 @@ deletion: 删除
 block: 封锁
 unblock: 解除封锁
 comment_reply_position: 留言回复位置
-comment_reply_position_help: 在顶部或底部显示评论回复表单
-  页面的。启用“无限滚动”时，位置将始终显示在
-  顶部。
+comment_reply_position_help: 在页面顶部或底部显示评论回复表单。启用“无限滚动”时，位置将始终显示在顶部。
 show_avatars_on_comments: 在留言中显示头像
 single_settings: 单一设定
 update_comment: 更新留言
@@ -502,3 +500,23 @@ closed: 已关闭
 bottom: 底部
 more_from_domain: 来自同一网域的更多内容
 entries: 帖子
+delete_content: 删除内容
+purge_content: 清除内容
+delete_content_desc: 删除用户的内容，同时将其他用户的响应留在创建的线程、帖子和评论中。
+purge_content_desc: 完全清除用户的内容，包括删除其他用户在创建的线程、帖子和评论中的响应。
+delete_account_desc: 删除帐户，同时将其他用户的响应留在创建的线程、帖子和评论中。
+purge_account_desc: 完全清除帐户，包括删除其他用户在创建的线程、帖子和评论中的响应。
+magazine_deletion: 删除版面
+delete_magazine: 删除版面
+restore_magazine: 还原版面
+purge_magazine: 清除版面
+magazine_is_deleted: 杂志已删除。您可以在30天内<a href="%link_target%">还原</a>它。
+suspend_account: 暂停帐号
+request_account_deletion_revoke_button: 撤销删除帐号请求
+reinstate_account: 恢复帐号
+account_suspended: 帐号已暂停
+delete_account_request_revoke: 撤销删除帐号请求
+account_reinstated: 帐号已恢复
+user_suspend_desc: 暂停你的帐户会隐藏你在实例上的内容，但不会永久删除它，你可以随时恢复它。
+password_and_2fa: 密码和两阶段验证2FA
+account_settings_changed: 您的帐户设置已成功更改。您需要再次登录。
