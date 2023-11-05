@@ -76,6 +76,7 @@
         "symfony/lock": "6.3.*",
         "symfony/mailer": "6.3.*",
         "symfony/mailgun-mailer": "6.3.*",
+        "symfony/google-mailer": "6.3.*",
         "symfony/mercure-bundle": "0.3.*",
         "symfony/messenger": "6.3.*",
         "symfony/mime": "6.3.*",
