@@ -37,6 +37,10 @@ class LanguageListener
             if ($tmplangSet != 'zh') { // 排除中文
                 $lang = $tmplangSet;
             }
+            else {
+                // 中文zh-CN转换为zh_CN，以符合Symfony的语言编号
+                $lang = $tmp[0] . '_' . strtoupper($tmp[1]);
+            }
         }
 
         $request->setLocale($lang);
