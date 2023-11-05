@@ -47,7 +47,7 @@
         </div>
         <div class="actions">
             {% if app.request.get('status') is same as REPORT_ANY %}
-                <small class="text-muted">{{ report.status }}</small>
+                <small class="text-muted">{{ report.status|trans }}</small>
             {% endif %}
             {% if report.status is not same as REPORT_CLOSED %}
                 {% if report.status is not same as REPORT_REJECTED %}

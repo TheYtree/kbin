@@ -320,18 +320,18 @@ ban_account: 封锁帐号
 unban_account: 解除封锁帐号
 delete_account_request_send: 已申请删除帐号。
 related_magazines: 相关版面
-random_magazines: 随缘看刊
+random_magazines: 随机版面
 preview: 预览
 reputation: 声望
 federation: 联邦
 add_moderator: 新增管理员
-report_issue: 回报问题
+report_issue: 反馈问题
 flash_magazine_edit_success: 成功编辑版面。
 ranking_disabled: 排名已停用
 flash_magazine_new_success: 成功立刊。你现在可以新增内容或浏览版面管理面板。
 set_magazines_bar_empty_desc: 如果留空，活跃的版面便会显示于上列。
 too_many_requests: 请求己达上限，请稍候再试。
-bronze_autobiographer: 自传家
+bronze_autobiographer: 自传
 set_magazines_bar_desc: 逗号后加上版面名称
 solarized_light: 间明色
 solarized_dark: 间暗色
@@ -457,14 +457,14 @@ change_magazine: 更改版面
 pages: 页
 add_mentions_entries: 在版面中提及
 add_mentions_posts: 在铺文中提及
-header_logo: 头版图象
+header_logo: 头像
 infinite_scroll_help: 在滑到页面底部时自动加载更多的内容。
 reload_to_apply: 请重载页面以更新设定
 filter.origin.label: 选择来源
 filter.adult.label: 选择是否显示成人内容
 filter.fields.only_names: 只有名字
 filter.fields.names_and_descriptions: 名字和描述
-kbin_bot: /kbin机器人
+kbin_bot: /kbin 机器人
 preferred_languages: 过滤帖子和铺文的语言
 magazine_panel_tags_info: 不建议使用，除非你想要来自其他联邦宇宙的内容透过标签（hashtags）能被引进到这个版面
 bot_body_content: "欢迎使用 /kbin 机器人！这个机器人在让 /kbin 启用ActivityPub的功能中有很重要的作用。它能确保 /kbin
@@ -486,3 +486,18 @@ gold_magazine_desc: 创立的版面受100个用户订阅
 purge_account: 停用帐号
 password_confirm_header: 请确认您的密码变更请求。
 filter.fields.label: 选择搜寻哪个项目
+last_active: 最后活跃
+pending: 等待中
+deletion: 删除
+block: 封锁
+unblock: 解除封锁
+magazine_panel: 版面管理
+comment_reply_position: 留言回复位置
+comment_reply_position_help: 在顶部或底部显示评论回复表单
+  页面的。启用“无限滚动”时，位置将始终显示在
+  顶部。
+show_avatars_on_comments: 在留言中显示头像
+single_settings: 单一设定
+update_comment: 更新留言
+closed: 已关闭
+bottom: 底部
