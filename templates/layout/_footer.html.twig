@@ -65,7 +65,7 @@
                 </menu>
                 <div class="lang-switch">
                     {% set header_accept_language = app.request.headers.has('accept_language')
-                        ? app.request.headers.get('accept_language')|slice(0,2)
+                        ? (app.request.headers.get('accept_language')|split(','))[0]
                         : null %}
                     {% set current = app.request.cookies.get('kbin_lang') ?? header_accept_language ?? kbin_default_lang() %}
                     <select data-action="kbin#changeLang">
