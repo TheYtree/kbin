@@ -128,7 +128,7 @@ logout: 注销
 links: 链接
 photos: 图片
 videos: 视频
-report: 回报
+report: 反馈
 edit: 编辑
 moderate: 管理
 reason: 理由
@@ -136,7 +136,7 @@ edit_link: 编辑链接
 edit_photo: 编辑图片
 edit_post: 编辑铺文
 edit_comment: 编辑留言
-settings: 设定
+settings: 设置
 general: 整体
 profile: 用户档
 blocked: 封锁项目
@@ -174,7 +174,7 @@ new_email: 新的电子邮件地址
 new_email_repeat: 确认新的电子邮件地址
 theme: 主题
 moderated: 管理的刊数
-reports: 回报
+reports: 反馈
 show_profile_subscriptions: 显示已订阅的版面
 created_at: 创于
 owner: 所有者
@@ -297,7 +297,7 @@ silver_poster_desc: 10个「优铺」
 icon: 头像
 message: 信息
 infinite_scroll: 无限浏览
-subject_reported: 内容己回报。
+subject_reported: 内容己反馈。
 sidebar_position: 侧栏位置
 left: 左侧
 right: 右侧
@@ -458,7 +458,7 @@ add_mentions_entries: 在版面中提及
 add_mentions_posts: 在铺文中提及
 header_logo: 头像
 infinite_scroll_help: 在滑到页面底部时自动加载更多的内容。
-reload_to_apply: 请重载页面以更新设定
+reload_to_apply: 请重载页面以更新设置
 filter.origin.label: 选择来源
 filter.adult.label: 选择是否显示+18 / NSFW
 filter.fields.only_names: 只有名字
@@ -491,7 +491,7 @@ unblock: 解除封锁
 comment_reply_position: 留言回复位置
 comment_reply_position_help: 在页面顶部或底部显示评论回复表单。启用“无限滚动”时，位置将始终显示在顶部。
 show_avatars_on_comments: 在留言中显示头像
-single_settings: 单一设定
+single_settings: 单一设置
 update_comment: 更新留言
 closed: 已关闭
 bottom: 底部
@@ -499,10 +499,10 @@ more_from_domain: 来自同一网域的更多内容
 entries: 帖子
 delete_content: 删除内容
 purge_content: 清除内容
-delete_content_desc: 删除用户的内容，同时将其他用户的响应留在创建的线程、帖子和评论中。
-purge_content_desc: 完全清除用户的内容，包括删除其他用户在创建的线程、帖子和评论中的响应。
-delete_account_desc: 删除帐户，同时将其他用户的响应留在创建的线程、帖子和评论中。
-purge_account_desc: 完全清除帐户，包括删除其他用户在创建的线程、帖子和评论中的响应。
+delete_content_desc: 删除用户的内容，同时将其他用户的回复留在创建的线程、帖子和评论中。
+purge_content_desc: 完全清除用户的内容，包括删除其他用户在创建的线程、帖子和评论中的回复。
+delete_account_desc: 删除帐户，同时将其他用户的回复留在创建的线程、帖子和评论中。
+purge_account_desc: 完全清除帐户，包括删除其他用户在创建的线程、帖子和评论中的回复。
 magazine_deletion: 删除版面
 delete_magazine: 删除版面
 restore_magazine: 还原版面
