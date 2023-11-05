@@ -238,7 +238,7 @@ cover: 封面
 to: 传给
 in: 在
 agree_terms: 
-  同意%terms_link_start%使用條款%terms_link_end%和%policy_link_start%隱私政策%policy_link_end%
+  同意%terms_link_start%使用条款%terms_link_end%和%policy_link_start%隐私政策%policy_link_end%
 email_verify: 确认电子邮件地址
 email_confirm_expire: 请注意，此链接于一小时后失效。
 image_alt: 替代文字
