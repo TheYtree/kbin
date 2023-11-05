@@ -65,11 +65,11 @@
                 </menu>
                 <div class="lang-switch">
                     {% set header_accept_language = app.request.headers.has('accept_language')
-                        ? (app.request.headers.get('accept_language')|split(','))[0]
+                        ? (app.request.headers.get('accept_language')|split(','))[0]|replace({'-': "_"})
                         : null %}
                     {% set current = app.request.cookies.get('kbin_lang') ?? header_accept_language ?? kbin_default_lang() %}
                     <select data-action="kbin#changeLang">
-                        {% for code in ['en', 'zh-CN', 'ar', 'de', 'el', 'eo', 'es', 'fr', 'it', 'ja', 'nl', 'pl', 'pt', 'tr', 'zh-TW'] %}
+                        {% for code in ['en', 'zh_CN', 'ar', 'de', 'el', 'eo', 'es', 'fr', 'it', 'ja', 'nl', 'pl', 'pt', 'tr', 'zh_TW'] %}
                             <option value="{{ code }}" {{ code is same as current ? 'selected' : '' }}>{{ code|language_name(code) }}</option>
                         {% endfor %}
                     </select>
