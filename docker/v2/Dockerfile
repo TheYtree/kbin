@@ -53,6 +53,7 @@ FROM base as builder-composer
 COPY composer.* $KBIN_HOME
 COPY symfony.lock $KBIN_HOME
 ENV COMPOSER_ALLOW_SUPERUSER=1
+RUN apt-get install git
 RUN composer install --prefer-dist --no-dev --no-autoloader --no-scripts --no-progress
 
 # Copy repository
