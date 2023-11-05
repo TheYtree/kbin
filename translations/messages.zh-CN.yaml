@@ -237,8 +237,7 @@ classic_view: 传统版面
 cover: 封面
 to: 传给
 in: 在
-agree_terms: 
-  同意%terms_link_start%使用条款%terms_link_end%和%policy_link_start%隐私政策%policy_link_end%
+agree_terms: 同意%terms_link_start%使用条款%terms_link_end%和%policy_link_start%隐私政策%policy_link_end%
 email_verify: 确认电子邮件地址
 email_confirm_expire: 请注意，此链接于一小时后失效。
 image_alt: 替代文字
@@ -467,9 +466,7 @@ filter.fields.names_and_descriptions: 名字和描述
 kbin_bot: /kbin 机器人
 preferred_languages: 过滤帖子和铺文的语言
 magazine_panel_tags_info: 不建议使用，除非你想要来自其他联邦宇宙的内容透过标签（hashtags）能被引进到这个版面
-bot_body_content: "欢迎使用 /kbin 机器人！这个机器人在让 /kbin 启用ActivityPub的功能中有很重要的作用。它能确保 /kbin
-  可以联系并并与其他联邦宇宙的实体组成联邦。\n\nActivityPub是一个开放、标准的传输协定，能够让去中心化的社交网络平台可以互相构通和交流。让用户能在不同实体（也就是服务器）在联邦的社交网络中－又称为联邦宇宙－去追踪、交流、并分享内容。
-  提供一个标准，让用户可以推出新内容、追踪其他用户、进行像是按赞、分享、在版面或铺文留言等等的社交活动。"
+bot_body_content: "欢迎使用 /kbin 机器人！该机器人在启用 /kbin 内的 ActivityPub 功能方面发挥着至关重要的作用。它确保 /kbin 可以与联邦宇宙中的其他实例进行通信和联合。\n\nActivityPub 是一个开放标准协议，允许去中心化 社交网络平台之间进行通信和交互。它使不同实例（服务器）上的用户能够在称为 fediverse 的联合社交网络上关注、交互和共享内容。它为用户发布内容、 关注其他用户，并参与社交互动，例如对主题或帖子进行点赞、分享和评论。"
 auto_preview_help: 自动展开媒体预览。
 sticky_navbar_help: 在滚动页面时，导航栏会持续贴在屏幕。
 filter.adult.hide: 隐藏+18 / NSFW
@@ -520,3 +517,197 @@ account_reinstated: 帐号已恢复
 user_suspend_desc: 暂停你的帐户会隐藏你在实例上的内容，但不会永久删除它，你可以随时恢复它。
 password_and_2fa: 密码和两阶段验证2FA
 account_settings_changed: 您的帐户设置已成功更改。您需要再次登录。
+your_account_is_not_active: 您的帐户尚未激活。 请检查您的电子邮件以获取帐户激活说明或<a href="%link_target%">请求新的帐户激活电子邮件</a>。
+your_account_has_been_banned: 您的帐户已被禁止
+toolbar.bold: 大胆的
+toolbar.italic: 斜体
+toolbar.strikethrough: 删除线
+toolbar.header: 标头
+toolbar.quote: 引用
+toolbar.code: 代码
+toolbar.link: 关联
+toolbar.image: 图像
+toolbar.unordered_list: 无序列表
+toolbar.ordered_list: 有序列表
+toolbar.mention: 提到
+federation_page_enabled: 联盟页面已启用
+federation_page_allowed_description: 我们与之联合的已知实例
+federation_page_disallowed_description: 我们不与之联合的实例
+federated_search_only_loggedin: 如果未登录，联合搜索将受到限制
+request_account_deletion_title: 帐户删除
+request_account_deletion_description: 管理员将收到您想要删除帐户的通知。
+request_account_deletion_button: 请求删除帐户
+errors.server500.title: 500 服务器错误
+errors.server500.description: 抱歉，我们这边出了点问题。 我们正在努力解决此问题，请尽快回来查看。
+errors.server429.title: 429 请求过多
+errors.server404.title: 404 未找到
+errors.server403.title: 403 禁忌
+email_confirm_button_text: 确认您的密码更改请求
+email_confirm_link_help: 或者，您可以将以下内容复制并粘贴到浏览器中
+email.delete.title: 用户帐户删除请求
+email.delete.description: 以下用户已请求删除其帐户
+resend_account_activation_email_question: 帐户不活跃？
+resend_account_activation_email: 重新发送帐户激活电子邮件
+resend_account_activation_email_error: 提交此请求时出现问题。 可能没有与该电子邮件关联的帐户，或者它可能已被激活。
+resend_account_activation_email_success: 如果与该电子邮件关联的帐户存在，我们将发送一封新的激活电子邮件。
+resend_account_activation_email_description: 输入与您的帐户关联的电子邮件地址。 我们将向您发送另一封激活电子邮件。
+custom_css: 自定义CSS
+ignore_magazines_custom_css: 忽略杂志自定义 CSS
+oauth.consent.title: OAuth2 同意书
+oauth.consent.grant_permissions: 授予权限
+oauth.consent.app_requesting_permissions: 愿意代表您执行以下操作
+oauth.consent.app_has_permissions: 已经可以执行以下操作
+oauth.consent.to_allow_access: 要允许此访问，请单击下面的“允许”按钮
+oauth.consent.allow: 允许
+oauth.consent.deny: 否定
+oauth.client_identifier.invalid: OAuth 客户端 ID 无效！
+oauth.client_not_granted_message_read_permission: 此应用尚未获得读取您的消息的权限。
+restrict_oauth_clients: 将 OAuth2 客户端创建限制为管理员
+oauth2.grant.moderate.magazine.ban.delete: 取消禁止您审核的杂志中的用户。
+oauth2.grant.moderate.magazine.list: 阅读您主持的杂志列表。
+oauth2.grant.moderate.magazine.reports.all: 管理您主持的杂志中的报告。
+oauth2.grant.moderate.magazine.reports.read: 阅读您主持的杂志中的报道。
+oauth2.grant.moderate.magazine.reports.action: 接受或拒绝您主持的杂志中的报告。
+oauth2.grant.moderate.magazine.trash.read: 查看您管理的杂志中的垃圾内容。
+oauth2.grant.moderate.magazine_admin.all: 创建、编辑或删除您拥有的杂志。
+oauth2.grant.moderate.magazine_admin.create: 创建新杂志。
+oauth2.grant.moderate.magazine_admin.delete: 删除您拥有的任何杂志。
+oauth2.grant.moderate.magazine_admin.update: 编辑您拥有的任何杂志的规则、描述、NSFW 状态或图标。
+oauth2.grant.moderate.magazine_admin.edit_theme: 编辑您拥有的任何杂志的自定义 CSS。
+oauth2.grant.moderate.magazine_admin.moderators: 添加或删除您拥有的任何杂志的版主。
+oauth2.grant.moderate.magazine_admin.badges: 从您拥有的杂志中创建或删除徽章。
+oauth2.grant.moderate.magazine_admin.tags: 从您拥有的杂志中创建或删除标签。
+oauth2.grant.moderate.magazine_admin.stats: 查看您拥有的杂志的内容、投票和统计数据。
+oauth2.grant.admin.all: 对您的实例执行任何管理操作。
+oauth2.grant.admin.entry.purge: 从您的实例中完全删除任何线程。
+oauth2.grant.read.general: 阅读您有权访问的所有内容。
+oauth2.grant.write.general: 创建或编辑您的任何主题、帖子或评论。
+oauth2.grant.delete.general: 删除您的任何话题、帖子或评论。
+oauth2.grant.report.general: 报告主题、帖子或评论。
+oauth2.grant.vote.general: 赞成、反对或推动话题、帖子或评论。
+oauth2.grant.subscribe.general: 订阅或关注任何杂志、域或用户，并查看您订阅的杂志、域和用户。
+oauth2.grant.block.general: 阻止或取消阻止任何杂志、域或用户，并查看您已阻止的杂志、域和用户。
+oauth2.grant.domain.all: 订阅或阻止域，并查看您订阅或阻止的域。
+oauth2.grant.domain.subscribe you subscribe to.: 订阅或取消订阅域以及查看域
+oauth2.grant.domain.block: 阻止或取消阻止域并查看您已阻止的域。
+oauth2.grant.entry.all: 创建、编辑或删除您的主题，并对任何主题进行投票、支持或举报。
+oauth2.grant.entry.create: 创建新线程。
+oauth2.grant.entry.edit: 编辑您现有的线程。
+oauth2.grant.entry.delete: 删除您现有的线程。
+oauth2.grant.entry.vote: 对任何话题投赞成票、支持票或反对票。
+oauth2.grant.entry.report: 报告任何线索。
+oauth2.grant.entry_comment.all: 创建、编辑或删除话题中的评论，并对话题中的任何评论进行投票、支持或举报。
+oauth2.grant.entry_comment.create: 在话题中创建新评论。
+oauth2.grant.entry_comment.edit: 编辑线程中现有的评论。
+oauth2.grant.entry_comment.delete: 删除您在话题中现有的评论。
+oauth2.grant.entry_comment.vote: 对话题中的任何评论投赞成票、赞成票或反对票。
+oauth2.grant.entry_comment.report: 报告话题中的任何评论。
+oauth2.grant.magazine.all: 订阅或阻止杂志，并查看您订阅或阻止的杂志。
+oauth2.grant.magazine.subscribe: 订阅或取消订阅杂志并查看您订阅的杂志。
+oauth2.grant.magazine.block: 阻止或取消阻止杂志并查看您已阻止的杂志。
+oauth2.grant.post.all: 创建、编辑或删除您的微博，并对任何微博进行投票、推荐或举报。
+oauth2.grant.post.create: 创建新帖子。
+oauth2.grant.post.edit: 编辑您现有的帖子。
+oauth2.grant.post.delete: 删除您现有的帖子。
+oauth2.grant.post.vote: 对任何帖子投赞成票、加强票或反对票。
+oauth2.grant.post.report: 举报任何帖子。
+oauth2.grant.post_comment.all: 创建、编辑或删除您对帖子的评论，并对帖子进行投票、支持或举报任何评论。
+oauth2.grant.post_comment.create: 对帖子创建新评论。
+oauth2.grant.post_comment.edit: 编辑您对帖子的现有评论。
+oauth2.grant.post_comment.delete: 删除您对帖子的现有评论。
+oauth2.grant.post_comment.vote: 对帖子的任何评论投赞成票、加强票或反对票。
+oauth2.grant.post_comment.report: 报告对帖子的任何评论。
+oauth2.grant.user.all: 阅读和编辑您的个人资料、消息或通知； 读取和编辑您授予其他应用程序的权限； 关注或阻止其他用户； 查看您关注或阻止的用户列表。
+oauth2.grant.user.profile.all: 阅读并编辑您的个人资料。
+oauth2.grant.user.profile.read: 阅读您的个人资料。
+oauth2.grant.user.profile.edit: 编辑您的个人资料。
+oauth2.grant.user.message.all: 阅读您的消息并将消息发送给其他用户。
+oauth2.grant.user.message.read: 阅读您的消息。
+oauth2.grant.user.message.create: 向其他用户发送消息。
+oauth2.grant.user.notification.all: 阅读并清除您的通知。
+oauth2.grant.user.notification.read: 阅读您的通知，包括消息通知。
+oauth2.grant.user.notification.delete: 清除您的通知。
+oauth2.grant.user.oauth_clients.all: 读取和编辑您授予其他 OAuth2 应用程序的权限。
+oauth2.grant.user.oauth_clients.read: 阅读您授予其他 OAuth2 应用程序的权限。
+oauth2.grant.user.oauth_clients.edit: 编辑权限
+oauth2.grant.user.follow: 关注或取消关注用户，并阅读您关注的用户列表。
+oauth2.grant.user.block: 阻止或取消阻止用户，并读取您阻止的用户列表。
+oauth2.grant.moderate.all: 在您的审核杂志中执行您有权执行的任何审核操作。
+oauth2.grant.moderate.entry.all: 审核您审核的杂志中的主题。
+oauth2.grant.moderate.entry.change_language: 更改您主持的杂志中主题的语言。
+oauth2.grant.moderate.entry.pin: 将线索固定在您主持的杂志的顶部。
+oauth2.grant.moderate.entry.set_adult: 在您主持的杂志中将帖子标记为 NSFW。
+oauth2.grant.moderate.entry.trash: 删除或恢复您审核的杂志中的帖子。
+oauth2.grant.moderate.entry_comment.all: 在您主持的杂志中对主题中的评论进行审核。
+oauth2.grant.moderate.entry_comment.change_language: 更改您主持的杂志中帖子中评论的语言。
+oauth2.grant.moderate.entry_comment.set_adult: 在您主持的杂志中将线程中的评论标记为 NSFW。
+oauth2.grant.moderate.entry_comment.trash: 删除或恢复您主持的杂志中线程中的评论。
+oauth2.grant.moderate.post.all: 审核您审核的杂志中的帖子。
+oauth2.grant.moderate.post.change_language: 更改您主持的杂志中帖子的语言。
+oauth2.grant.moderate.post.set_adult: 在您主持的杂志中将帖子标记为 NSFW。
+oauth2.grant.moderate.post.trash: 删除或恢复您审核的杂志中的帖子。
+oauth2.grant.moderate.post_comment.all: 对您主持的杂志中的帖子进行审核评论。
+oauth2.grant.moderate.post_comment.change_language: 更改您主持的杂志中帖子的评论语言。
+oauth2.grant.moderate.post_comment.set_adult: 在您主持的杂志中将帖子评论标记为 NSFW。
+oauth2.grant.moderate.post_comment.trash: 删除或恢复对您主持的杂志中帖子的评论。
+oauth2.grant.moderate.magazine.all: 管理禁令、报告并查看您审核的杂志中的垃圾项目。
+oauth2.grant.moderate.magazine.ban.all: 管理您主持的杂志中的禁止用户。
+oauth2.grant.moderate.magazine.ban.read: 查看您管理的杂志中被禁止的用户。
+oauth2.grant.moderate.magazine.ban.create: 禁止您主持的杂志中的用户。
+oauth2.grant.admin.entry_comment.purge: 从您的实例中完全删除线程中的任何评论。
+oauth2.grant.admin.post.purge: 从您的实例中完全删除任何帖子。
+oauth2.grant.admin.post_comment.purge: 从您的实例中完全删除对帖子的任何评论。
+oauth2.grant.admin.magazine.all: 在实例之间移动线程或完全删除实例上的杂志。
+oauth2.grant.admin.magazine.move_entry: 在实例上的杂志之间移动话题。
+oauth2.grant.admin.magazine.purge: 完全删除您实例上的杂志。
+oauth2.grant.admin.user.all: 禁止、验证或完全删除您实例上的用户。
+oauth2.grant.admin.user.ban: 禁止或取消禁止用户使用您的实例。
+oauth2.grant.admin.user.verify: 验证您实例上的用户。
+oauth2.grant.admin.user.delete: 从您的实例中删除用户。
+oauth2.grant.admin.user.purge: 从您的实例中完全删除用户。
+oauth2.grant.admin.instance.all: 查看和更新实例设置或信息。
+oauth2.grant.admin.instance.stats: 查看您的实例的统计信息。
+oauth2.grant.admin.instance.settings.all: 查看或更新实例上的设置。
+oauth2.grant.admin.instance.settings.read: 查看您的实例上的设置。
+oauth2.grant.admin.instance.settings.edit: 更新您实例上的设置。
+oauth2.grant.admin.instance.information.edit: 更新实例上的“关于”、“常见问题解答”、“联系方式”、“服务条款”和“隐私政策”页面。
+oauth2.grant.admin.federation.all: 查看和更新当前联合的实例。
+oauth2.grant.admin.federation.read: 查看联合实例的列表。
+oauth2.grant.admin.federation.update: 在联合实例列表中添加或删除实例。
+oauth2.grant.admin.oauth_clients.all: 查看或撤销您的实例上存在的 OAuth2 客户端。
+oauth2.grant.admin.oauth_clients.read: 查看您的实例上存在的 OAuth2 客户端及其使用统计信息。
+oauth2.grant.admin.oauth_clients.revoke: 撤销对您实例上的 OAuth2 客户端的访问权限。
+flash_post_pin_success: 该帖子已成功置顶。
+flash_post_unpin_success: 该帖子已成功取消固定。
+show_avatars_on_comments_help: 查看单个线程或帖子的评论时显示/隐藏用户头像。
+magazine_theme_appearance_custom_css: 查看杂志内容时将应用的自定义 CSS。
+magazine_theme_appearance_icon: 杂志的自定义图标。 如果未选择任何图标，则将使用默认图标。
+magazine_theme_appearance_background_image: 查看杂志内容时将应用的自定义背景图像。
+moderation.report.approve_report_title: 批准报告
+moderation.report.reject_report_title: 拒绝报告
+moderation.report.ban_user_description: 您想要禁止创建此内容的用户 (%username%) 访问这本杂志吗？
+moderation.report.approve_report_confirmation: 您确定要批准此报告吗？
+subject_reported_exists: 此内容已被报道。
+moderation.report.ban_user_title: 禁止用户
+moderation.report.reject_report_confirmation: 您确定要拒绝此报告吗？
+oauth2.grant.moderate.post.pin: 将帖子固定到您审核的杂志的顶部。
+two_factor_authentication: 双因素身份验证
+two_factor_backup: 双因素身份验证备份代码
+2fa.authentication_code.label: 验证码
+2fa.verify: 核实
+2fa.code_invalid: 验证码无效
+2fa.enable: 设置双因素身份验证
+2fa.disable: 禁用双因素身份验证
+2fa.backup: 您的双因素备份代码
+2fa.backup-create.help: 您可以创建新的备份验证码； 这样做将使现有代码无效。
+2fa.backup-create.label: 创建新的备份验证码
+2fa.remove: 删除 2FA
+2fa.add: 添加到我的帐户
+2fa.verify_authentication_code.label: 输入双因素代码以验证设置
+2fa.qr_code_img.alt: 允许为您的帐户设置双因素身份验证的二维码
+2fa.qr_code_link.title: 访问此链接可能允许您的平台注册此双因素身份验证
+2fa.user_active_tfa.title: 用户已激活 2fa
+2fa.available_apps: 使用两因素身份验证应用程序，例如 %google_authenticator%, %aegis% (Android) 或 %raivo% (iOS) 扫描二维码。
+2fa.backup_codes.help: 当您没有双因素身份验证设备或应用程序时，可以使用这些代码。 您将<strong>不会再次看到它们</strong>，并且每个<strong>只能使用一次</strong>。
+2fa.backup_codes.recommendation: 建议您将它们的副本保存在安全的地方。
+cancel: 取消

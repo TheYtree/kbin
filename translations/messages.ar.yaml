@@ -1,0 +1,713 @@
+type.photo: صورة
+type.video: فيديو
+type.smart_contract: العقد الذكي
+type.magazine: تَخطِيط
+type.article: بريد
+thread: بريد
+threads: بريد
+microblog: ويبو
+people: الناس
+events: حدث
+magazines: تَخطِيط
+search: يبحث
+add: ينشر
+select_channel: اختر القناة
+login: تسجيل الدخول
+top: أفضل
+hot: شائع
+active: نشيط
+newest: حتى الآن
+oldest: الأقدم
+commented: هناك موضوع للمناقشة
+change_view: غير الواجهة او التصميم
+filter_by_type: تصفية حسب النوع
+comments_count: {0}رسالة|{1}رسالة|]1,معلومات[رسالة"
+favourites: يحب
+favourite: يحب
+more: أكثر
+avatar: الصورة الرمزية
+added: نشرت
+up_votes: قمة
+down_votes: تقدم
+no_comments: لا توجد رسالة
+type.link: وصلة
+magazine: تَخطِيط
+filter_by_time: تصفية حسب الوقت
+views: عدد الزيارات
+online: متصل
+comments: رسالة
+posts: كتيب
+replies: رد
+moderators: مدير
+mod_log: مجلة الإدارة
+add_comment: ترك رسالة
+add_post: نشر مقال
+add_media: انضم إلى وسائل الإعلام
+markdown_howto: كيفية استخدام المحرر؟
+enter_your_post: يرجى كتابة كتيب
+enter_your_comment: يرجى كتابة رسالة
+activity: نشاط
+related_posts: مقالات ذات صلة
+random_posts: تسوق بالصدفة
+federated_magazine_info: تأتي هذه الصفحة من خوادم اتحادات أخرى وقد لا تكون كاملة.
+federated_user_info: يأتي هذا المستخدم من خادم في اتحاد آخر وقد لا يكون كاملاً.
+go_to_original_instance: انتقل إلى الكيان الأصلي لرؤية المزيد.
+empty: باطل
+subscribe: الاشتراك
+unsubscribe: إلغاء الاشتراك
+follow: مسار
+unfollow: إلغاء التتبع
+reply: رد
+login_or_email: اسم المستخدم أو البريد الالكتروني
+password: كلمة المرور
+remember_me: تذكرنى
+dont_have_account: ليس لديك حساب؟
+you_cant_login: نسيت كلمة السر؟
+already_have_account: هل لديك حساب؟
+register: يسجل
+reset_password: إعادة تعيين كلمة المرور
+show_more: عرض المزيد
+username: اسم المستخدم
+email: عنوان البريد الإلكتروني
+repeat_password: اعد كلمة السر
+terms: شروط الخدمة
+privacy_policy: سياسة الخصوصية
+about_instance: عن
+all_magazines: كل الصفحات
+stats: إحصائيات
+fediverse: الكون الفيدرالي
+awards: ميدالية
+ranking: تصنيف
+create_new_magazine: إنشاء تخطيط
+add_new_post: مقالة جديدة
+add_new_article: منشور جديد
+add_new_photo: صور جديدة
+add_new_link: رابط جديد
+contact: يتصل
+faq: مشكلة شائعة
+rss: آر إس إس
+useful: الاكثر استعمالا
+help: يوضح
+add_new_video: فيديو جديد
+check_email: تفقد بريدك الالكتروني من فضلك
+reset_check_email_desc2: إذا لم تتلق بريدًا إلكترونيًا، فيرجى التحقق لمعرفة ما إذا كان قد تم تصنيفه على أنه بريد عشوائي.
+try_again: حاول ثانية
+up_vote: يدفع
+down_vote: يكره
+email_confirm_header: مرحبًا! يرجى تأكيد عنوان البريد الإلكتروني الخاص بك.
+email_confirm_title: أكد عنوان بريدك الألكتروني.
+select_magazine: الرجاء تحديد التخطيط
+add_new: جديد
+url: عنوان URL
+title: عنوان
+tags: ملصق
+badges: ميدالية
+is_adult: #NAME?
+eng: إنجليزي
+oc: إبداعي
+image: صورة
+name: اسم
+rules: قاعدة
+domain: اِختِصاص
+followers: تعقب
+following: تتبع
+subscriptions: عناصر الاشتراك
+user: مستخدم
+joined: إنضم إلى
+ratio: حَجم
+people_federated: الفيدرالية
+subscribed: مشترك
+all: الجميع
+logout: تسجيل خروج
+3h: 3 ساعات
+6h: 6 ساعات
+12h: 12 ساعة
+1d: يوم 1
+1w: أسبوع 1
+1y: 1 سنة
+links: وصلة
+photos: صورة
+videos: فيديو
+report: يعود
+edit: يحرر
+moderate: يدير
+reason: سبب
+edit_link: تعديل الرابط
+edit_photo: تحرير الصورة
+edit_post: تحرير المادة
+edit_comment: تحرير الرسالة
+settings: يثبت
+general: إجمالي
+profile: ملف تعريفي للمستخدم
+blocked: العناصر المحظورة
+notifications: يخطر
+messages: معلومة
+appearance: الخارج
+hide_adult: إخفاء +18 / NSFW
+featured_magazines: التخطيط الموصى به
+privacy: خصوصية
+show_profile_followings: أظهر للمستخدمين الذين تتابعهم
+notify_on_new_post_reply: عندما يرد أحد على رسالتي
+save: محل
+about: عن
+old_email: عنوان البريد الإلكتروني الحالي
+current_password: كلمة السر الحالية
+new_password: كلمة المرور الجديدة
+new_password_repeat: قم بتأكيد كلمة المرور الجديدة
+change_email: تغيير البريد الالكتروني
+change_password: تغيير كلمة المرور
+expand: يوسع
+collapse: يغلق
+domains: اِختِصاص
+error: خطأ
+votes: عدد الأصوات
+dark: مظلم
+light: ساطع
+font_size: حجم الخط
+size: كبير
+body: محتوى
+description: يصف
+1m: شهر واحد
+share: يشارك
+delete: يمسح
+new_email: عنوان البريد الإلكتروني الجديد
+new_email_repeat: تأكيد عنوان البريد الإلكتروني الجديد
+theme: سمة
+moderated: عدد القضايا التي تمت إدارتها
+reports: يعود
+show_profile_subscriptions: إظهار المنتديات التي تم الاشتراك فيها
+created_at: أنشئت في
+owner: مالك
+subscribers: مشترك
+change_theme: غير الخلفية
+cards: بطاقة
+columns: قائمة
+reputation_points: سمعة
+related_tags: العلامات ذات الصلة
+go_to_content: انتقل إلى المحتوى
+go_to_filters: تنقي
+go_to_search: اذهب إلى البحث
+go_to_footer: انتقل إلى نهاية الصفحة
+chat_view: تخطيط المحادثة
+tree_view: تخطيط الشجرة
+table_view: تخطيط الجدول
+cards_view: تخطيط البطاقة
+copy_url: إنسخ الرابط
+copy_url_to_fediverse: انسخ عنوان URL الخاص بالاتحاد
+share_on_fediverse: شارك في الكون الفيدرالي
+are_you_sure: هل أنت متأكد؟
+articles: بريد
+edit_article: تعديل المنشور
+notify_on_new_entry_reply: عندما يرد أحد على رسالتي
+notify_on_new_entry_comment_reply: لما حد يرد على رسالتي على البوست
+notify_on_new_entry: عندما تكون هناك مشاركات جديدة في المنتدى المشترك
+removed_thread_by: تمت إزالة مشاركات هذا المستخدم:
+restored_thread_by: تمت استعادة مشاركة هذا المستخدم:
+removed_comment_by: تمت إزالة رسالة هذا المستخدم:
+restored_comment_by: تمت استعادة رسالة هذا المستخدم:
+removed_post_by: تمت إزالة مشاركة هذا المستخدم:
+restored_post_by: تمت استعادة مشاركة هذا المستخدم:
+he_banned: حصار
+he_unbanned: رفع الحظر
+read_all: اشر عليها بانها قرات
+show_all: اعرضهم جميعا
+flash_register_success: مرحباً! أصبح حسابك الآن على بعد خطوة واحدة فقط من أن يصبح جاهزًا للاستخدام. يرجى تأكيد رابط التفعيل الموجود في بريدك الإلكتروني والذي سيؤدي إلى تفعيل حسابك.
+flash_thread_new_success: تم النشر بنجاح. يمكن الآن للمستخدمين الآخرين مشاهدته.
+flash_thread_edit_success: تم تحرير المشاركة بنجاح.
+flash_thread_delete_success: تم حذف المشاركة بنجاح.
+flash_thread_pin_success: تم تثبيت المشاركة بنجاح.
+flash_thread_unpin_success: تمت إزالة تثبيت المشاركة بنجاح.
+comment: رسالة
+change_language: تغيير اللغة
+change: يتغير
+article: بريد
+users: مستخدم
+week: أسبوع
+weeks: أسبوع
+month: قمر
+months: قمر
+year: سنة
+federated: الفيدرالية
+local: محلي
+overview: ملخص
+people_local: محلي
+compact_view: تصميم مدمج
+content: محتوى
+classic_view: التخطيط التقليدي
+cover: غطاء
+to: انقل الى
+in: يخرج
+agree_terms: وافق على %terms_link_start% شروط الاستخدام %terms_link_end% و%policy_link_start% سياسة الخصوصية %policy_link_end%
+email_verify: أكد عنوانك الإلكتروني
+email_confirm_expire: يرجى ملاحظة أن هذا الرابط تنتهي صلاحيته بعد ساعة واحدة.
+image_alt: نص بديل
+email_confirm_content: هل أنت مستعد لتفعيل حساب Ancestral Tree Community الخاص بك؟ اظغط على الرابط ادناه:
+homepage: الصفحة الأمامية
+notify_on_new_post_comment_reply: لما حد يرد على رسالتي في أي بوست
+notify_on_new_posts: عندما تكون هناك مقالات جديدة في المنتدى المشترك
+gold: ذهب
+silver: فضة
+bronze: نحاس
+bronze_autobiographer_desc: أكمل المعلومات الشخصية لملف تعريف المستخدم
+bronze_personality: سحر البرونزية
+bronze_personality_desc: 20 متابع
+bronze_commentator: الناقد البرونزي
+boosts: يدفع
+show_users_avatars: إظهار الصورة الرمزية للمستخدم
+yes: نعم
+no: لا
+show_magazines_icons: إظهار الصورة الرمزية للصفحة
+show_thumbnails: إظهار الصورة المصغرة
+rounded_edges: واجهة مدورة
+bronze_article: بوست برونزي
+bronze_magazine: المجلات الشهيرة
+bronze_commentator_desc: 10 "تعليقات جيدة"
+bronze_redactor: المحرر البرونزي
+bronze_poster: المتسوق المستوى البرونزي
+bronze_poster_desc: 10 "محلات جيدة"
+bronze_link_desc: تمت التوصية بهذا المنشور 5 مرات
+bronze_photo_desc: تم الإعجاب بهذه الصورة 5 مرات
+bronze_comment_desc: تم دفع هذه الرسالة 5 مرات
+bronze_post_desc: تمت التوصية بهذا المنشور 5 مرات
+bronze_popular_entry: وظيفة ساخنة
+bronze_popular_entry_desc: تمت مشاهدة هذا المنشور ألف مرة
+silver_personality_desc: 50 متابع
+silver_commentator: الناقد الفضي
+silver_scout: جاسوس الفضة
+bronze_comment: مراجعة جيدة
+bronze_post: متجر جيد
+bronze_ranking: المكان الثالث
+silver_commentator_desc: 10 "تعليقات جيدة"
+silver_scout_desc: 10 "روابط ممتازة"
+silver_redactor: المحرر الفضي
+silver_redactor_desc: 10 "مشاركات ممتازة"
+silver_poster: متسوق المستوى الفضي
+silver_link: يوليان
+bronze_link: سلسلة جيدة
+bronze_scout_desc: 10 "روابط جيدة"
+silver_entry_week: أفضل مشاركة في الأسبوع
+bronze_scout: جاسوس المستوى البرونزي
+bronze_photo: صورة جيدة
+bronze_redactor_desc: 10 "مشاركات جيدة"
+reset_check_email_desc: إذا كان هناك حساب مرتبط بعنوان بريدك الإلكتروني، فستتلقى قريبًا رسالة بريد إلكتروني تحتوي على رابط إعادة تعيين كلمة المرور. وستنتهي صلاحية هذا الرابط بعد %expire%.
+bronze_article_desc: تم دفع هذا المنصب 5 مرات
+bronze_ranking_desc: المرتبة الثالثة
+silver_personality: سحر الفضة
+silver_poster_desc: 10 "محلات ممتازة"
+icon: الصورة الرمزية
+message: معلومة
+infinite_scroll: تصفح غير محدود
+subject_reported: تم الإبلاغ عن المحتوى.
+sidebar_position: موقف الشريط الجانبي
+left: الجهه اليسرى
+right: يمين
+status: ولاية
+on: يفتح
+off: يغلق
+upload_file: رفع ملف
+from_url: من رابط
+ban: حصار
+filters: منقي
+perm: دائم
+expired_at: انتهت يوم
+trash: القمامة
+FAQ: مشكلة شائعة
+random_entries: قراءة المشاركات عرضا
+related_entries: المنشورات ذات الصلة
+delete_account: حذف الحساب
+ban_account: حظر الحساب
+unban_account: إلغاء حظر الحساب
+delete_account_request_send: تم طلب حذف الحساب.
+related_magazines: الصفحات ذات الصلة
+random_magazines: تخطيط عشوائي
+preview: معاينة
+reputation: هيبة
+federation: الفيدرالية
+add_moderator: إضافة مسؤول جديد
+report_issue: سؤال ردود الفعل
+flash_magazine_edit_success: تم تحرير الصفحة بنجاح.
+ranking_disabled: تم تعطيل الترتيب
+flash_magazine_new_success: تم إنشاء النشر بنجاح. يمكنك الآن إضافة محتوى جديد أو تصفح لوحة إدارة المنتدى.
+set_magazines_bar_empty_desc: إذا تركت فارغة، فسيتم عرض المنتديات النشطة في العمود العلوي.
+too_many_requests: لقد تم الوصول إلى الحد الأقصى للطلب، يرجى المحاولة مرة أخرى في وقت لاحق.
+bronze_autobiographer: السيرة الذاتية
+set_magazines_bar_desc: أضف اسم المنتدى بعد الفاصلة
+solarized_light: لون مشرق
+solarized_dark: لون غامق
+silver_photo: يوتو
+silver_photo_desc: تم الإعجاب بهذا المنشور 10 مرات
+silver_comment: مراجعة ممتازة
+silver_comment_desc: تم دفع هذه الرسالة 10 مرات
+silver_post: يوبو
+silver_post_desc: تمت التوصية بهذا المنشور 10 مرات
+silver_ranking: المكان الثاني
+silver_ranking_desc: المرتبة الثانية
+silver_popular_entry: وظيفة ساخنة
+silver_popular_entry_desc: تمت مشاهدة هذا المنشور خمسة آلاف مرة
+silver_magazine: قضية ساخنة
+silver_magazine_desc: المنتدى الذي تم إنشاؤه مشترك فيه 50 مستخدمًا
+silver_link_desc: تمت التوصية بهذا المنشور 10 مرات
+silver_article: وظيفة المستوى الفضي
+silver_article_desc: تمت ترقية هذا المنشور 10 مرات
+added_new_thread: فتحت مشاركة جديدة
+silver_comment_week: أفضل مراجعة هذا الأسبوع
+silver_post_week: أفضل متجر هذا الأسبوع
+gold_personality: سحر المستوى الذهبي
+gold_personality_desc: 100 متابع
+gold_commentator: الناقد الذهبي
+gold_scout: جاسوس من المستوى الذهبي
+gold_scout_desc: 10 "التحسينات الشديدة"
+gold_redactor: محرر المستوى الذهبي
+gold_poster: متسوق المستوى الذهبي
+gold_link_desc: تمت التوصية بهذا المنشور 15 مرة
+gold_article_desc: تم دفع هذا المنشور 15 مرة
+gold_photo_desc: تم الإعجاب بهذه الصورة 15 مرة
+gold_comment_desc: تم دفع هذه الرسالة 15 مرة
+gold_post_desc: تمت التوصية بهذا المنشور 15 مرة
+gold_ranking: المركز الأول
+gold_ranking_desc: المرتبة الأولى
+gold_popular_entry: وظيفة ساخنة
+gold_popular_entry_desc: تمت مشاهدة هذا المنشور 10,000 مرة
+gold_magazine: قضية ساخنة
+gold_entry_month: أفضل مشاركة هذا الشهر
+gold_comment_month: أفضل مراجعة هذا الشهر
+gold_post_month: أفضل متجر هذا الشهر
+silver_entry_week_desc: أفضل مشاركة لهذا الأسبوع
+gold_commentator_desc: 10 "مراجعات متطرفة"
+gold_redactor_desc: 10 "مشاركات رائعة"
+gold_poster_desc: 10 "جيبو"
+gold_link: سلسلة المتطرفة
+gold_photo: الشكل القطبي
+gold_comment: اشاد بقوة
+gold_post: جيبو
+magazine_panel: إدارة التخطيط
+deleted: تم حذفه من قبل المؤلف
+mentioned_you: اذكرك
+post: كتيب
+ban_expired: انتهت صلاحية الحظر
+show_top_bar: إظهار العمود العلوي
+sticky_navbar: شريط التنقل الثابت
+added_new_post: فتحت متجرا جديدا
+added_new_reply: فتحت رد جديد
+approve: موافقة
+mod_remove_your_thread: تمت إزالة مشاركتك من قبل المسؤول
+mod_remove_your_post: قام المسؤول بإزالة مشاركتك
+approved: موافقة
+removed: تمت إزالتها من قبل المسؤول
+reject: رفض
+rejected: مرفوض
+replied_to_your_comment: تم الرد على رسالتك
+mod_deleted_your_comment: قام المسؤول بحذف رسالتك
+edited_post: تم تحرير مشاركة
+wrote_message: أرسل الرسالة
+banned: منعك
+instances: كيان
+edited_thread: تم تحرير مشاركة
+added_new_comment: أرسلت رسالة
+send_message: إرسال المعلومات
+dynamic_lists: قائمة ديناميكية
+auto_preview: معاينة الوسائط تلقائيًا
+sidebar: الشريط الجانبي
+writing: عند الكتابة
+Password is invalid: كلمة المرور غير صحيحة.
+admin_panel: لوحة المسؤول
+active_users: مستخدم نشط
+Your account has been banned: تم حظر حسابك.
+firstname: اسم
+send: إرسال
+contact_email: تواصل بالبريد الاكتروني
+meta: ميتا
+instance: كيان
+inactive: غير نشط
+unpin: إلغاء الاشتراك
+registrations_enabled: التسجيل مفتوح
+federation_enabled: تمكين الاتحاد
+pinned: مثبت
+pin: اختيار دبوس
+dashboard: لوحة المعلومات
+registration_disabled: تم تعطيل تسجيل
+restore: تخفيض
+Your account is not active: لم يتم تفعيل حسابك بعد.
+type_search_term: أدخل الكلمات الرئيسية
+boost: يدفع
+captcha_enabled: تم تفعيل كلمة التحقق
+kbin_promo_title: إنشاء الكيان الخاص بك
+kbin_intro_title: مجتمع Zuyuan Tree (الإصدار التجريبي الداخلي)
+banned_instances: الكيان المحظور
+browsing_one_thread: أنت الآن تتصفح إحدى المشاركات في هذا الموضوع! يرجى قراءة جميع الرسائل من المشاركة الأصلية.
+return: يعود
+kbin_intro_desc: فترة الاختبار الداخلي هي من 5 نوفمبر إلى 30 نوفمبر، وسيتم مسح كل المحتوى بعد الاختبار.
+kbin_promo_desc: %link_start% انسخ دليل التعليمات البرمجية المصدر %link_end% لتطوير الكون الفيدرالي معًا'
+mod_log_alert: تحذير: قد تحتوي سجلات المشرف على محتوى مسيء أو مزعج وقد تتم إزالته بواسطة المسؤولين، لذا يرجى توخي الحذر.
+mercure_enabled: تم إطلاق ميركيور
+tokyo_night: ليلة طوكيو
+set_magazines_bar: شريط التخطيط
+silver_comment_week_desc: أفضل رسالة في الأسبوع
+silver_post_week_desc: أفضل مشاركة في الأسبوع
+gold_article: وظيفة ذهبية
+gold_entry_month_desc: أفضل المشاركات لهذا الشهر
+gold_comment_month_desc: أفضل رسالة في هذا الشهر
+gold_post_month_desc: أفضل مشاركة لهذا الشهر
+bans: حصار
+add_badge: إضافة ميدالية جديدة
+add_ban: إضافة كتلة جديدة
+edited_comment: تم تعديل رسالة
+change_magazine: غير الواجهة او التصميم
+pages: صفحة
+add_mentions_entries: المذكورة في المنتدى
+add_mentions_posts: المذكورة في المقال
+header_logo: الصورة الرمزية
+infinite_scroll_help: قم بتحميل المزيد من المحتوى تلقائيًا أثناء التمرير إلى أسفل الصفحة.
+reload_to_apply: يرجى إعادة تحميل الصفحة لتحديث الإعدادات
+filter.origin.label: اختر مصدر
+filter.adult.label: اختر ما إذا كنت تريد عرض +18/NSFW
+filter.fields.only_names: الاسم الوحيد
+filter.fields.names_and_descriptions: الاسم والوصف
+kbin_bot: / كبين روبوت
+preferred_languages: تصفية المشاركات والترجمات حسب اللغة
+magazine_panel_tags_info: لا يُنصح بذلك إلا إذا كنت تريد استيراد محتوى من عوالم اتحادية أخرى إلى هذا المنتدى عبر علامات التصنيف
+bot_body_content: مرحبًا بك في روبوت /kbin! يلعب هذا الروبوت دورًا حيويًا في تمكين وظيفة ActivityPub داخل /kbin. فهو يضمن أن /kbin يمكنه التواصل والاتحاد مع المثيلات الأخرى في الكون المتحد.\n\nActivityPub هو بروتوكول قياسي مفتوح يستخدم يسمح بالاتصال والتفاعل بين منصات الشبكات الاجتماعية اللامركزية. فهو يمكّن المستخدمين على مثيلات مختلفة (خوادم) من متابعة المحتوى والتفاعل معه ومشاركته على شبكة اجتماعية اتحادية تسمى fediverse. وهو يوفر منصة للمستخدمين لنشر المحتوى ومتابعة المستخدمين الآخرين والمشاركة في التفاعلات الاجتماعية مثل الإعجاب والمشاركة والتعليق على المواضيع أو المنشورات.
+auto_preview_help: قم بتوسيع معاينات الوسائط تلقائيًا.
+sticky_navbar_help: أثناء قيامك بتمرير الصفحة، يظل شريط التنقل متصلاً بالشاشة.
+filter.adult.hide: إخفاء +18 / NSFW
+filter.adult.show: عرض +18/NSFW
+filter.adult.only: عرض +18 / NSFW فقط
+local_and_federated: من الأكوان المحلية والأكوان الفيدرالية الأخرى
+created: أنشئت في
+done: ينهي
+expires: بسبب
+note: ملاحظة
+purge: واضح
+bronze_magazine_desc: الصفحة مشتركة من قبل 20 مستخدما
+gold_magazine_desc: المنتدى الذي تم إنشاؤه مشترك فيه 100 مستخدم
+purge_account: تعطيل الحساب
+password_confirm_header: الرجاء تأكيد طلب تغيير كلمة المرور الخاصة بك.
+filter.fields.label: اختر ما تبحث عنه
+last_active: آخر نشاط
+pending: منتظر
+deletion: يمسح
+block: حصار
+unblock: رفع الحظر
+comment_reply_position: مكان الرد على الرسالة
+comment_reply_position_help: اعرض نموذج الرد على التعليق في أعلى الصفحة أو أسفلها. عند تمكين التمرير اللانهائي، سيظهر الموقع دائمًا في الأعلى.
+show_avatars_on_comments: إظهار الصورة الرمزية في التعليقات
+single_settings: إعداد واحد
+update_comment: تحديث الرسالة
+closed: مغلق
+bottom: قاع
+more_from_domain: المزيد من المحتوى من نفس المجال
+entries: بريد
+delete_content: إزالة المحتوى
+purge_content: مسح المحتوى
+delete_content_desc: قم بإزالة محتوى المستخدم مع ترك ردود المستخدمين الآخرين في المواضيع والمشاركات والتعليقات التي تم إنشاؤها.
+purge_content_desc: مسح محتوى المستخدم تمامًا، بما في ذلك حذف الردود من المستخدمين الآخرين في المواضيع والمشاركات والتعليقات التي تم إنشاؤها.
+delete_account_desc: احذف الحساب مع ترك ردود المستخدمين الآخرين في المواضيع والمشاركات والتعليقات التي تم إنشاؤها.
+purge_account_desc: مسح الحساب بالكامل، بما في ذلك حذف الردود من المستخدمين الآخرين في المواضيع والمشاركات والتعليقات التي تم إنشاؤها.
+magazine_deletion: حذف المنتدى
+delete_magazine: حذف المنتدى
+restore_magazine: استعادة السطح الأصلي
+purge_magazine: تخطيط واضح
+magazine_is_deleted: تم حذف المجلة. يمكنك <a href="%link_target%">استعادته</a> خلال 30 يومًا.
+suspend_account: تعليق الحساب
+request_account_deletion_revoke_button: إبطال طلب حذف الحساب
+reinstate_account: استعادة الحساب
+account_suspended: حساب معلق
+delete_account_request_revoke: إبطال طلب حذف الحساب
+account_reinstated: تمت استعادة الحساب
+user_suspend_desc: يؤدي تعليق حسابك إلى إخفاء المحتوى الخاص بك في المثيل ولكنه لا يحذفه نهائيًا ويمكنك استعادته في أي وقت.
+password_and_2fa: كلمات المرور والتحقق بخطوتين 2FA
+account_settings_changed: لقد تم تغيير إعدادات حسابك بنجاح. تحتاج إلى تسجيل الدخول مرة أخرى.
+your_account_is_not_active: لم يتم تفعيل حسابك بعد. يرجى التحقق من بريدك الإلكتروني للحصول على تعليمات تنشيط الحساب أو <a href="%link_target%">اطلب بريدًا إلكترونيًا جديدًا لتنشيط الحساب</a>.
+your_account_has_been_banned: تم حظر الحساب الخاص بك
+toolbar.bold: عريض
+toolbar.italic: مائل
+toolbar.strikethrough: يتوسطه خط
+toolbar.header: رأس
+toolbar.quote: يقتبس
+toolbar.code: شفرة
+toolbar.link: منظمة
+toolbar.image: صورة
+toolbar.unordered_list: قائمة غير مرتبة
+toolbar.ordered_list: قائمة مرتبة
+toolbar.mention: مذكور
+federation_page_enabled: تم تمكين صفحة التحالف
+federation_page_allowed_description: الحالات المعروفة التي نرتبط بها
+federation_page_disallowed_description: الحالات التي لا نرتبط بها
+federated_search_only_loggedin: ستكون عمليات البحث الموحدة محدودة إذا لم يتم تسجيل الدخول
+request_account_deletion_title: حذف الحساب
+request_account_deletion_description: سيتم إخطار المسؤول برغبتك في حذف حسابك.
+request_account_deletion_button: طلب حذف الحساب
+errors.server500.title: 500 خطأ في الخادم
+errors.server500.description: آسف! حدث خطأ من جانبنا. نحن نعمل جاهدين لحل هذه المشكلة، لذا يرجى التحقق مرة أخرى قريبًا.
+errors.server429.title: 429 طلبات كثيرة جدًا
+errors.server404.title: 404 غير موجود
+errors.server403.title: 403 المحرمات
+email_confirm_button_text: قم بتأكيد طلب تغيير كلمة المرور الخاصة بك
+email_confirm_link_help: بدلا من ذلك، يمكنك نسخ ولصق ما يلي في المتصفح الخاص بك
+email.delete.title: طلب حذف حساب المستخدم
+email.delete.description: لقد طلب المستخدمون التاليون حذف حساباتهم
+resend_account_activation_email_question: الحساب غير نشط؟
+resend_account_activation_email: إعادة إرسال البريد الإلكتروني لتفعيل الحساب
+resend_account_activation_email_error: حدثت مشكلة أثناء إرسال هذا الطلب. قد لا يكون هناك حساب مرتبط بهذا البريد الإلكتروني، أو ربما تم تنشيطه بالفعل.
+resend_account_activation_email_success: إذا كان الحساب المرتبط بهذا البريد الإلكتروني موجودًا، فسنرسل إليك بريدًا إلكترونيًا جديدًا للتنشيط.
+resend_account_activation_email_description: أدخل عنوان البريد الإلكتروني المرتبط بحسابك. سوف نرسل لك بريدًا إلكترونيًا آخر للتنشيط.
+custom_css: لغة تنسيق ويب حسب الطلب
+ignore_magazines_custom_css: تجاهل مجلة CSS المخصصة
+oauth.consent.title: موافقة OAuth2
+oauth.consent.grant_permissions: منح إذن
+oauth.consent.app_requesting_permissions: على استعداد للقيام بما يلي نيابة عنك
+oauth.consent.app_has_permissions: من الممكن بالفعل تنفيذ العمليات التالية
+oauth.consent.to_allow_access: للسماح بهذا الوصول، انقر فوق الزر "السماح" أدناه
+oauth.consent.allow: يسمح
+oauth.consent.deny: سلبي
+oauth.client_identifier.invalid: معرف عميل OAuth غير صالح!
+oauth.client_not_granted_message_read_permission: لم يتم بعد منح هذا التطبيق الإذن لقراءة رسائلك.
+restrict_oauth_clients: تقييد إنشاء عميل OAuth2 للمسؤولين
+oauth2.grant.moderate.magazine.ban.delete: قم بإلغاء حظر المستخدمين من المجلات التي تشرف عليها.
+oauth2.grant.moderate.magazine.list: اقرأ قائمة المجلات التي تستضيفها.
+oauth2.grant.moderate.magazine.reports.all: إدارة التقارير في المجلات التي تستضيفها.
+oauth2.grant.moderate.magazine.reports.read: اقرأ التغطية في المجلة التي تستضيفها.
+oauth2.grant.moderate.magazine.reports.action: قبول أو رفض التقارير في المجلات التي تشرف عليها.
+oauth2.grant.moderate.magazine.trash.read: تحقق من وجود رسائل غير مرغوب فيها في المجلات التي تديرها.
+oauth2.grant.moderate.magazine_admin.all: إنشاء أو تعديل أو حذف المجلات التي تمتلكها.
+oauth2.grant.moderate.magazine_admin.create: إنشاء مجلة جديدة.
+oauth2.grant.moderate.magazine_admin.delete: احذف أي مجلات تمتلكها.
+oauth2.grant.moderate.magazine_admin.update: قم بتحرير القواعد أو الوصف أو حالة NSFW أو أيقونة أي مجلة تمتلكها.
+oauth2.grant.moderate.magazine_admin.edit_theme: قم بتحرير CSS المخصص لأي مجلة تمتلكها.
+oauth2.grant.moderate.magazine_admin.moderators: إضافة أو إزالة المشرفين على أي مجلة تملكها.
+oauth2.grant.moderate.magazine_admin.badges: قم بإنشاء أو إزالة الشارات من المجلات التي تمتلكها.
+oauth2.grant.moderate.magazine_admin.tags: قم بإنشاء أو إزالة العلامات من المجلات التي تمتلكها.
+oauth2.grant.moderate.magazine_admin.stats: عرض المحتوى واستطلاعات الرأي والإحصائيات للمجلات التي تمتلكها.
+oauth2.grant.admin.all: تنفيذ أي عمليات إدارية على المثيل الخاص بك.
+oauth2.grant.admin.entry.purge: قم بإزالة أي مواضيع من المثيل الخاص بك تمامًا.
+oauth2.grant.read.general: اقرأ كل ما يمكنك الوصول إليه.
+oauth2.grant.write.general: إنشاء أو تعديل أي من المواضيع أو المشاركات أو التعليقات الخاصة بك.
+oauth2.grant.delete.general: حذف أي من مواضيعك أو مشاركاتك أو تعليقاتك.
+oauth2.grant.report.general: الإبلاغ عن موضوع أو مشاركة أو تعليق.
+oauth2.grant.vote.general: التصويت لصالح أو التصويت السلبي أو الترويج لموضوع أو منشور أو تعليق.
+oauth2.grant.subscribe.general: اشترك أو تابع أي مجلة أو مجال أو مستخدم واعرض المجلات والمجالات والمستخدمين الذين اشتركت لديهم.
+oauth2.grant.block.general: قم بحظر أو إلغاء حظر أي مجلة أو مجال أو مستخدم وعرض المجلات والمجالات والمستخدمين الذين قمت بحظرهم.
+oauth2.grant.domain.all: اشترك أو احظر النطاقات واعرض النطاقات التي اشتركت فيها أو حظرتها.
+oauth2.grant.domain.subscribe you subscribe to.: الاشتراك أو إلغاء الاشتراك وعرض المجالات
+oauth2.grant.domain.block: حظر أو إلغاء حظر المجالات وعرض المجالات المحظورة الخاصة بك.
+oauth2.grant.entry.all: قم بإنشاء أو تعديل أو حذف مواضيعك، والتصويت أو الدعم أو الإبلاغ عن أي موضوع.
+oauth2.grant.entry.create: إنشاء موضوع جديد.
+oauth2.grant.entry.edit: قم بتحرير موضوعك الحالي.
+oauth2.grant.entry.delete: احذف موضوعك الحالي
+oauth2.grant.entry.vote: التصويت لأعلى أو لأسفل على أي موضوع.
+oauth2.grant.entry.report: الإبلاغ عن أي خيوط.
+oauth2.grant.entry_comment.all: قم بإنشاء التعليقات في سلاسل الرسائل أو تحريرها أو حذفها، وقم بالتصويت أو التصويت لصالحها أو الإبلاغ عن أي تعليقات في سلاسل الرسائل.
+oauth2.grant.entry_comment.create: إنشاء تعليق جديد في الموضوع.
+oauth2.grant.entry_comment.edit: تحرير تعليق موجود في الموضوع.
+oauth2.grant.entry_comment.delete: احذف تعليقك الموجود في الموضوع.
+oauth2.grant.entry_comment.vote: التصويت لصالح أو التصويت لصالح أو التصويت السلبي لأي تعليق في الموضوع.
+oauth2.grant.entry_comment.report: الإبلاغ عن أي تعليقات في الموضوع.
+oauth2.grant.magazine.all: اشترك في المجلات أو احظرها واعرض المجلات التي اشتركت فيها أو حظرتها.
+oauth2.grant.magazine.subscribe: اشترك أو قم بإلغاء الاشتراك في المجلات واعرض المجلات التي اشتركت فيها.
+oauth2.grant.magazine.block: حظر المجلات أو إلغاء حظرها وعرض المجلات المحظورة.
+oauth2.grant.post.all: قم بإنشاء أو تعديل أو حذف حساب Weibo الخاص بك، والتصويت أو التوصية أو الإبلاغ عن أي Weibo.
+oauth2.grant.post.create: إنشاء مشاركة جديدة.
+oauth2.grant.post.edit: قم بتحرير منشورك الحالي.
+oauth2.grant.post.delete: احذف مشاركتك الحالية.
+oauth2.grant.post.vote: التصويت لصالح أو التصويت لصالح أو التصويت السلبي لأي مشاركة.
+oauth2.grant.post.report: الإبلاغ عن أي مشاركة.
+oauth2.grant.post_comment.all: قم بإنشاء أو تعديل أو حذف تعليقاتك على المنشورات والتصويت أو التصويت أو الإبلاغ عن أي تعليقات على المنشورات.
+oauth2.grant.post_comment.create: إنشاء تعليق جديد على هذا المنصب.
+oauth2.grant.post_comment.edit: قم بتحرير تعليقك الحالي على المنشور.
+oauth2.grant.post_comment.delete: احذف تعليقاتك الموجودة على المنشور.
+oauth2.grant.post_comment.vote: التصويت لصالح أو التصويت لصالح أو التصويت السلبي لأي تعليق على هذا المنصب.
+oauth2.grant.post_comment.report: الإبلاغ عن أي تعليقات على هذا المنصب.
+oauth2.grant.user.all: قراءة ملفك الشخصي أو رسائلك أو إشعاراتك وتعديلها؛ قراءة وتحرير الأذونات التي منحتها للتطبيقات الأخرى؛ متابعة المستخدمين الآخرين أو حظرهم؛ عرض قائمة بالمستخدمين الذين تابعتهم أو حظرتهم.
+oauth2.grant.user.profile.all: قراءة وتحرير ملف التعريف الخاص بك.
+oauth2.grant.user.profile.read: اقرأ ملفك الشخصي.
+oauth2.grant.user.profile.edit: عدل ملفك الشخصي.
+oauth2.grant.user.message.all: قراءة رسائلك وإرسالها إلى مستخدمين آخرين.
+oauth2.grant.user.message.read: اقرأ رسالتك.
+oauth2.grant.user.message.create: إرسال رسائل إلى مستخدمين آخرين.
+oauth2.grant.user.notification.all: قراءة ومسح الإخطارات الخاصة بك.
+oauth2.grant.user.notification.read: اقرأ إشعاراتك، بما في ذلك إشعارات الرسائل.
+oauth2.grant.user.notification.delete: مسح الإخطارات الخاصة بك.
+oauth2.grant.user.oauth_clients.all: قراءة وتحرير الأذونات التي تمنحها لتطبيقات OAuth2 الأخرى.
+oauth2.grant.user.oauth_clients.read: اقرأ الأذونات التي تمنحها لتطبيقات OAuth2 الأخرى.
+oauth2.grant.user.oauth_clients.edit: تحرير الأذونات
+oauth2.grant.user.follow: متابعة المستخدمين أو إلغاء متابعتهم وقراءة قائمة المستخدمين الذين تتابعهم.
+oauth2.grant.user.block: قم بحظر المستخدمين أو إلغاء حظرهم واقرأ قائمة المستخدمين الذين قمت بحظرهم.
+oauth2.grant.moderate.all: قم بتنفيذ أي إجراءات مراجعة مصرح لك بتنفيذها في مجلة المراجعة الخاصة بك.
+oauth2.grant.moderate.entry.all: قم بمراجعة المواضيع في المجلات التي تراجعها.
+oauth2.grant.moderate.entry.change_language: تغيير لغة المواضيع في المجلات التي تستضيفها.
+oauth2.grant.moderate.entry.pin: قم بتثبيت الدليل في أعلى المجلة التي تستضيفها.
+oauth2.grant.moderate.entry.set_adult: قم بوضع علامة على المنشورات كـ NSFW في المجلات التي تستضيفها.
+oauth2.grant.moderate.entry.trash: حذف أو استعادة المشاركات من المجلات التي تشرف عليها.
+oauth2.grant.moderate.entry_comment.all: قم بالإشراف على التعليقات في المواضيع الموجودة في المجلات التي تقوم بالإشراف عليها.
+oauth2.grant.moderate.entry_comment.change_language: قم بتغيير لغة التعليقات على المنشورات في المجلات التي تشرف عليها.
+oauth2.grant.moderate.entry_comment.set_adult: قم بوضع علامة على التعليقات الموجودة في الموضوع على أنها NSFW في المجلة التي تشرف عليها.
+oauth2.grant.moderate.entry_comment.trash: حذف أو استعادة التعليقات من المواضيع في المجلات التي تشرف عليها.
+oauth2.grant.moderate.post.all: الإشراف على المشاركات في المجلات التي تقوم بالإشراف عليها.
+oauth2.grant.moderate.post.change_language: تغيير لغة المشاركات في المجلات التي تستضيفها.
+oauth2.grant.moderate.post.set_adult: قم بوضع علامة على المنشورات كـ NSFW في المجلات التي تستضيفها.
+oauth2.grant.moderate.post.trash: حذف أو استعادة المشاركات من المجلات التي تشرف عليها.
+oauth2.grant.moderate.post_comment.all: قم بالإشراف على التعليقات على المنشورات في المجلات التي تقوم بالإشراف عليها.
+oauth2.grant.moderate.post_comment.change_language: قم بتغيير لغة التعليق للمشاركات في المجلات التي تشرف عليها.
+oauth2.grant.moderate.post_comment.set_adult: قم بوضع علامة على تعليقات النشر على أنها NSFW في المجلات التي تشرف عليها.
+oauth2.grant.moderate.post_comment.trash: حذف أو استعادة التعليقات على المنشورات في المجلات التي تشرف عليها.
+oauth2.grant.moderate.magazine.all: إدارة عمليات الحظر والتقارير وعرض العناصر غير المرغوب فيها في المجلات التي تراجعها.
+oauth2.grant.moderate.magazine.ban.all: إدارة المستخدمين المحظورين في المجلات التي تستضيفها.
+oauth2.grant.moderate.magazine.ban.read: عرض المستخدمين المحظورين من المجلات التي تديرها.
+oauth2.grant.moderate.magazine.ban.create: حظر المستخدمين من المجلات التي تستضيفها.
+oauth2.grant.admin.entry_comment.purge: قم بإزالة أي تعليقات في سلسلة المحادثات تمامًا من المثيل الخاص بك.
+oauth2.grant.admin.post.purge: قم بإزالة أي منشورات من المثيل الخاص بك تمامًا.
+oauth2.grant.admin.post_comment.purge: قم بإزالة أي تعليقات على المنشور من المثيل الخاص بك تمامًا.
+oauth2.grant.admin.magazine.all: انقل المواضيع بين المثيلات أو قم بإزالة المجلات الموجودة في المثيل بالكامل.
+oauth2.grant.admin.magazine.move_entry: نقل المواضيع بين المجلات على سبيل المثال.
+oauth2.grant.admin.magazine.purge: قم بحذف المجلة الموجودة على المثيل الخاص بك بالكامل.
+oauth2.grant.admin.user.all: حظر المستخدمين أو المصادقة عليهم أو حذفهم تمامًا من مثيلك.
+oauth2.grant.admin.user.ban: قم بحظر أو إلغاء حظر المستخدمين من استخدام المثيل الخاص بك.
+oauth2.grant.admin.user.verify: قم بمصادقة المستخدم على المثيل الخاص بك.
+oauth2.grant.admin.user.delete: قم بإزالة المستخدم من المثيل الخاص بك.
+oauth2.grant.admin.user.purge: قم بإزالة المستخدم بالكامل من المثيل الخاص بك.
+oauth2.grant.admin.instance.all: عرض وتحديث إعدادات أو معلومات المثيل.
+oauth2.grant.admin.instance.stats: عرض إحصائيات المثيل الخاص بك.
+oauth2.grant.admin.instance.settings.all: عرض أو تحديث الإعدادات على المثيل.
+oauth2.grant.admin.instance.settings.read: قم بمراجعة الإعدادات على المثيل الخاص بك.
+oauth2.grant.admin.instance.settings.edit: قم بتحديث الإعدادات على المثيل الخاص بك.
+oauth2.grant.admin.instance.information.edit: قم بتحديث صفحات "حول" و"الأسئلة الشائعة" و"جهة الاتصال" و"شروط الخدمة" و"سياسة الخصوصية" على مثيلك.
+oauth2.grant.admin.federation.all: عرض وتحديث المثيل الموحد الحالي.
+oauth2.grant.admin.federation.read: عرض قائمة المثيلات الموحدة.
+oauth2.grant.admin.federation.update: إضافة أو إزالة المثيلات من قائمة المثيلات الموحدة.
+oauth2.grant.admin.oauth_clients.all: عرض أو إبطال عملاء OAuth2 الموجودين على المثيل الخاص بك.
+oauth2.grant.admin.oauth_clients.read: عرض عملاء OAuth2 الموجودين على المثيل الخاص بك وإحصائيات الاستخدام الخاصة بهم.
+oauth2.grant.admin.oauth_clients.revoke: قم بإلغاء الوصول إلى عميل OAuth2 على المثيل الخاص بك.
+flash_post_pin_success: تم تثبيت هذه المشاركة بنجاح.
+flash_post_unpin_success: تمت إزالة تثبيت المشاركة بنجاح.
+show_avatars_on_comments_help: إظهار/إخفاء الصورة الرمزية للمستخدم عند عرض التعليقات على موضوع واحد أو منشور واحد.
+magazine_theme_appearance_custom_css: CSS مخصص سيتم تطبيقه عند عرض محتوى المجلة.
+magazine_theme_appearance_icon: أيقونة مخصصة للمجلة. إذا لم يتم تحديد أي رمز، فسيتم استخدام الرمز الافتراضي.
+magazine_theme_appearance_background_image: صورة خلفية مخصصة سيتم تطبيقها عند عرض محتوى المجلة.
+moderation.report.approve_report_title: تقرير الموافقة
+moderation.report.reject_report_title: رفض التقرير
+moderation.report.ban_user_description: هل تريد منع المستخدم (%username%) الذي أنشأ هذا المحتوى من الوصول إلى هذه المجلة؟
+moderation.report.approve_report_confirmation: هل أنت متأكد أنك تريد الموافقة على هذا التقرير؟
+subject_reported_exists: تم الإبلاغ عن هذا المحتوى.
+moderation.report.ban_user_title: حجب المستخدم
+moderation.report.reject_report_confirmation: هل أنت متأكد أنك تريد رفض هذا التقرير؟
+oauth2.grant.moderate.post.pin: قم بتثبيت المنشور في أعلى المجلة التي تراجعها.
+two_factor_authentication: توثيق ذو عاملين
+two_factor_backup: رمز النسخ الاحتياطي للمصادقة الثنائية
+2fa.authentication_code.label: رمز التحقق
+2fa.verify: يؤكد
+2fa.code_invalid: رمز التحقق غير صالح
+2fa.enable: قم بإعداد المصادقة الثنائية
+2fa.disable: تعطيل المصادقة الثنائية
+2fa.backup: رمزك الاحتياطي ثنائي العامل
+2fa.backup-create.help: يمكنك إنشاء رمز تحقق احتياطي جديد؛ سيؤدي القيام بذلك إلى إبطال الرمز الموجود.
+2fa.backup-create.label: قم بإنشاء رمز التحقق الاحتياطي الجديد
+2fa.remove: إزالة 2FA
+2fa.add: أضف إلى حسابي
+2fa.verify_authentication_code.label: أدخل الرمز الثنائي للتحقق من الإعداد
+2fa.qr_code_img.alt: رمز QR الذي يسمح بإعداد المصادقة الثنائية لحسابك
+2fa.qr_code_link.title: قد تسمح زيارة هذا الرابط لمنصتك بالتسجيل في هذه المصادقة الثنائية
+2fa.user_active_tfa.title: قام المستخدم بتنشيط 2fa
+2fa.available_apps: امسح رمز الاستجابة السريعة ضوئيًا باستخدام تطبيق المصادقة الثنائية مثل %google_authenticator% أو %aegis% (Android) أو %raivo% (iOS).
+2fa.backup_codes.help: يمكن استخدام هذه الرموز عندما لا يكون لديك جهاز أو تطبيق للمصادقة الثنائية. لن <strong>تراها مرة أخرى أبدًا</strong> ولا يمكن استخدامها إلا <strong>مرة واحدة</strong> لكل منها.
+2fa.backup_codes.recommendation: ويوصى بالاحتفاظ بنسخة منها في مكان آمن.
+cancel: يلغي
