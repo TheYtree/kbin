@@ -102,7 +102,7 @@ url: 网址
 title: 标题
 tags: 标签
 badges: 勋章
-is_adult: 成人内容
+is_adult: +18 / NSFW
 eng: 英文
 oc: 原创
 image: 图片
@@ -143,7 +143,7 @@ blocked: 封锁项目
 notifications: 通知
 messages: 信息
 appearance: 外观
-hide_adult: 隐藏成人内容
+hide_adult: 隐藏+18 / NSFW
 featured_magazines: 推荐的版面
 privacy: 隐私
 show_profile_followings: 显示正在追踪的用户
@@ -242,7 +242,7 @@ agree_terms:
 email_verify: 确认电子邮件地址
 email_confirm_expire: 请注意，此链接于一小时后失效。
 image_alt: 替代文字
-email_confirm_content: 准备好启用你的/kbin帐号了吗？点击下方的链接：
+email_confirm_content: 准备好启用你的祖源树社区帐号了吗？点击下方的链接：
 homepage: 首页
 notify_on_new_post_comment_reply: 有人在任何铺文回复我的留言时
 notify_on_new_posts: 订阅的版面有新铺文时
@@ -433,7 +433,7 @@ type_search_term: 输入关键字
 boost: 推
 captcha_enabled: 已启用Captcha
 kbin_promo_title: 创造你自己的实体
-kbin_intro_title: 祖源社区内测版
+kbin_intro_title: 祖源树社区（内测版）
 banned_instances: 封锁中的实体
 browsing_one_thread: 您现在正在浏览讨论串的其中一文！所有的留言请从原铺文阅览。
 return: 返回
@@ -461,7 +461,7 @@ header_logo: 头像
 infinite_scroll_help: 在滑到页面底部时自动加载更多的内容。
 reload_to_apply: 请重载页面以更新设定
 filter.origin.label: 选择来源
-filter.adult.label: 选择是否显示成人内容
+filter.adult.label: 选择是否显示+18 / NSFW
 filter.fields.only_names: 只有名字
 filter.fields.names_and_descriptions: 名字和描述
 kbin_bot: /kbin 机器人
@@ -472,9 +472,9 @@ bot_body_content: "欢迎使用 /kbin 机器人！这个机器人在让 /kbin �
   提供一个标准，让用户可以推出新内容、追踪其他用户、进行像是按赞、分享、在版面或铺文留言等等的社交活动。"
 auto_preview_help: 自动展开媒体预览。
 sticky_navbar_help: 在滚动页面时，导航栏会持续贴在屏幕。
-filter.adult.hide: 隐藏成人内容
-filter.adult.show: 显示成人内容
-filter.adult.only: 只显示成人内容
+filter.adult.hide: 隐藏+18 / NSFW
+filter.adult.show: 显示+18 / NSFW
+filter.adult.only: 只显示+18 / NSFW
 local_and_federated: 本地和其他联邦宇宙的
 created: 创于
 done: 完成
@@ -500,3 +500,5 @@ single_settings: 单一设定
 update_comment: 更新留言
 closed: 已关闭
 bottom: 底部
+more_from_domain: 来自同一网域的更多内容
+entries: 帖子
