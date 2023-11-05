@@ -381,7 +381,7 @@ gold_link: 极链
 gold_photo: 极图
 gold_comment: 极评
 gold_post: 极铺
-magazine_panel: 版面面板
+magazine_panel: 版面管理
 deleted: 被作者删除
 mentioned_you: 提及您
 post: 铺文
@@ -491,7 +491,6 @@ pending: 等待中
 deletion: 删除
 block: 封锁
 unblock: 解除封锁
-magazine_panel: 版面管理
 comment_reply_position: 留言回复位置
 comment_reply_position_help: 在顶部或底部显示评论回复表单
   页面的。启用“无限滚动”时，位置将始终显示在
