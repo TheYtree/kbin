@@ -28,7 +28,16 @@ class LanguageListener
             return;
         }
 
-        $lang = substr($_SERVER['HTTP_ACCEPT_LANGUAGE'], 0, 2);
+        // 自动侦测浏览器语言
+        preg_match('/^([a-z\d\-]+)/i', $_SERVER['HTTP_ACCEPT_LANGUAGE'], $matches);
+        $lang = $matches[1];
+        $tmp = explode('-', $lang);
+        if (count($tmp) > 1) { // 语种+地区的支持
+            $tmplangSet = $tmp[0];
+            if ($tmplangSet != 'zh') { // 排除中文
+                $lang = $tmplangSet;
+            }
+        }
 
         $request->setLocale($lang);
         $request->setDefaultLocale($lang);
