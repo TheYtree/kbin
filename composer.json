@@ -3,6 +3,21 @@
     "description": "Kbin is a decentralized content aggregator and microblogging platform running on the Fediverse network",
     "license": "AGPL-3.0-or-later",
     "type": "project",
+    "repositories": [
+        {
+          "type": "package",
+          "package": {
+            "name": "twig/intl-extra",
+            "version": "v3.7.1",
+            "type": "library",
+            "source": {
+              "url": "https://github.com/TheYtree/intl-extra.git",
+              "type": "git",
+              "reference": "3.x"
+            }
+          }
+        }
+      ],
     "require": {
         "php": ">=8.2",
         "ext-amqp": "*",
